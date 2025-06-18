@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "E:\\TestMVC\\TaskTracker\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TaskTracker.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TaskTracker.vk32w1ltn0.bundle.scp.css"
-    },
-    {
       "Id": "E:\\TestMVC\\TaskTracker\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

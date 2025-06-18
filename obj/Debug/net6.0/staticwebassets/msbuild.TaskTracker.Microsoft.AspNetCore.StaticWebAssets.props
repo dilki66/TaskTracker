@@ -1080,23 +1080,5 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TaskTracker.vk32w1ltn0.bundle.scp.css'))">
-      <SourceType>Package</SourceType>
-      <SourceId>TaskTracker</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/TaskTracker</BasePath>
-      <RelativePath>TaskTracker.vk32w1ltn0.bundle.scp.css</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>Reference</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName>ScopedCss</AssetTraitName>
-      <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>vk32w1ltn0</Fingerprint>
-      <Integrity>n9LARlOGROUybUXQ7MgAv2+3nekG7UcQbq0dirMqMHo=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TaskTracker.vk32w1ltn0.bundle.scp.css'))</OriginalItemSpec>
-    </StaticWebAsset>
   </ItemGroup>
 </Project>
