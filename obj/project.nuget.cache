@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxiy6zqGkZo=",
+  "dgSpecHash": "w4+Fv6ilT+c=",
   "success": true,
-  "projectFilePath": "E:\\TestMVC\\TaskTracker\\TaskTracker.csproj",
+  "projectFilePath": "E:\\TestMVC\\tasktracker\\TaskTracker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

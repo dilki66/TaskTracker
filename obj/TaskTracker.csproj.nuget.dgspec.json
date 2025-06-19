@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TestMVC\\TaskTracker\\TaskTracker.csproj": {}
+    "E:\\TestMVC\\tasktracker\\TaskTracker.csproj": {}
   },
   "projects": {
-    "E:\\TestMVC\\TaskTracker\\TaskTracker.csproj": {
+    "E:\\TestMVC\\tasktracker\\TaskTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TestMVC\\TaskTracker\\TaskTracker.csproj",
+        "projectUniqueName": "E:\\TestMVC\\tasktracker\\TaskTracker.csproj",
         "projectName": "TaskTracker",
-        "projectPath": "E:\\TestMVC\\TaskTracker\\TaskTracker.csproj",
+        "projectPath": "E:\\TestMVC\\tasktracker\\TaskTracker.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\TestMVC\\TaskTracker\\obj\\",
+        "outputPath": "E:\\TestMVC\\tasktracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
