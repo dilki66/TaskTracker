@@ -16,13 +16,13 @@ namespace TaskTracker.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(string title, string description)
+        public IActionResult Create([FromBody]CreateTaskRequest request)
         {
             var newTask = new TaskItem
             {
                 Id = tasks.Count + 1,
-                Title = title,
-                Description = description,
+                Title = request.Title,
+                Description = request.Description,
                 IsCompleted = false
             };
 
