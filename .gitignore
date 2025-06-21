@@ -1,0 +1,54 @@
+## Build files
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## Dotnet secrets
+secrets.json
+
+## Logs
+*.log
+
+## Dependency directories
+packages/
+node_modules/
+
+## Auto-generated files
+*.generated.cs
+
+## OS-specific files
+.DS_Store
+Thumbs.db
+
+## Environment files
+.env
+
+## Publish outputs
+*.publish/
+
+## IIS Express config
+.vs/
+
+## Rider IDE files
+.idea/
+
+## Global JetBrains Rider folder
+*.sln.iml
+
+## NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+## Others
+*.db
+*.sqlite
